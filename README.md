@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wamiq-Z 
-- 👀 I’m interested in Programming plat
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming plats.
+- 🌱 I’m currently learning Computer science
+- 💞️ I’m looking to collaborate on HackerEarth
 - 📫 How to reach me @linked.in/wamiqzafar
 
 <!---
